@@ -11,13 +11,14 @@
 
 <section>
   <h3 align="left">Recent Projects🚀</h3>
-  <span style="display: inline-block;">
+  <span style="display: inline-block; white-space: nowrap;">
     <p><a href="https://nunodurao.github.io/Super-Ninja-Turtle/">Super Ninja Turtles</a> - 2D game inspired by the Google's dinosaur game.</p>
     <p><a href="https://bright-cardigan-foal.cyclic.app/">My Camino Ways</a> - An app to document the experience on the Camino de Santiago.</p>
     <p><a href="https://cerulean-torte-7e554d.netlify.app/">WatchVerse</a> - An app to randomize movies and series.</p>
   </span>
 </section>
 <hr>
+
 
 
 <section>

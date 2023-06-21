@@ -10,14 +10,15 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <section>
-<h3 align="left">Recent Projects🚀</h3>
-<span style="display: inline-block;">
- <p><a href="https://nunodurao.github.io/Super-Ninja-Turtle/">Super Ninja Turtles - 2D game inspired by the Google's dinosaur game</a></p>
- <p><a href="https://bright-cardigan-foal.cyclic.app/">My Camino Ways - An app to document the experience on the Camino de Santiago.</a></p>
- <p><a href="https://cerulean-torte-7e554d.netlify.app/">WatchVerse - An app to randomize movies and series</a></p>
-</span>
+  <h3 align="left">Recent Projects🚀</h3>
+  <span style="display: inline-block;">
+    <p><a href="https://nunodurao.github.io/Super-Ninja-Turtle/">Super Ninja Turtles</a> - 2D game inspired by the Google's dinosaur game.</p>
+    <p><a href="https://bright-cardigan-foal.cyclic.app/">My Camino Ways</a> - An app to document the experience on the Camino de Santiago.</p>
+    <p><a href="https://cerulean-torte-7e554d.netlify.app/">WatchVerse</a> - An app to randomize movies and series.</p>
+  </span>
 </section>
 <hr>
+
 
 <section>
 <h3 align="left">Languages and Tools:</h3>
